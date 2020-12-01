@@ -1,7 +1,7 @@
 # strengthandnumbers-covidMMTPsurvey
 <br>
 
-# Survey to Assess Methadone Access During COVID-19
+## Survey to Assess Methadone Access During COVID-19
 Methadone maintenance treatment (MMT) is a type of opioid treatment that typically requires participants to take prescribed doses at their clinic. While methadone can be a lifesaving medication for people with opioid use disorder, the requirement of daily in-person clinic visits can be an extremely challenging barrier to access for MMT participants.
 <br>
 
