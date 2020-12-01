@@ -9,3 +9,6 @@ In response to the COVID-19 pandemic, the Substance Abuse and Mental Health Serv
 <br>
 
 Our work was recently [published online pre-print](https://www.medrxiv.org/content/10.1101/2020.08.31.20185249v1/), meaning it has not completed the peer review process in a scientific journal. The contents are preliminary and subject to change. However, we are providing the information back to the community given the urgent nature of this topic area.
+<br>
+
+If using these materials to design similar surveys, we suggest referencing our summary of suggestions for future studies. Please feel free to contact us with any questions. 
