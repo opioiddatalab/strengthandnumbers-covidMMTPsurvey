@@ -9,6 +9,7 @@ Our work was recently [published online pre-print](https://www.medrxiv.org/conte
 <br>
 
 Please feel free to reference [our questionnaire.](documents/Methadone_Access_During_COVID_Survey_Tool.pdf) 
-If using these materials to design similar surveys, we suggest referencing [our summary of suggestions for future studies.](documents/Methadone_Access_During_COVID_Survey_Design_Suggestions.docx)
+If using these materials to design similar surveys, we suggest reviewing [our summary of suggestions for future studies.](documents/Methadone_Access_During_COVID_Survey_Design_Suggestions.docx)
+You can cite our work using the information provided [here.](https://cdr.lib.unc.edu/concern/articles/f7623n407)
 Visit [opioiddata.org](https://www.opioiddata.org/) for more information. 
 
